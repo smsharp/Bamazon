@@ -19,6 +19,8 @@ To run the customer interface please follow the steps below:
 	npm install inquirer
 	npm install mysql
 	node bamazonCustomer.js
+	
+**Once you have installed inquirer and mysql, you will only need to run 'node bamazonCustomer.js'
 
 ### Screenshots for Running the Application
 
