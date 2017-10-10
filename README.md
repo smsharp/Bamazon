@@ -6,7 +6,7 @@ This application is a simple command line based storefront, like Amazon. It will
 
 ### How to Run Bamazon
 
-In order to run this application, you will need MySQL on your computer. If you don't have it, visit the [MySQL installation page](https://dev.mysql.com/downloads/mysql/) to install the version you need for your operating system. Once you have MySQL installed, you will be able to create the "Bamazon" database and the "products" table with the SQL code found in Bamazon.sql. Run this code inside your MySQL client to populate the database, then you will be ready to use the customer interface. Make sure you input your MySQL password into the bamazoncustomer.js file on line 12.
+In order to run this application, you will need MySQL on your computer. If you don't have it, visit the [MySQL installation page](https://dev.mysql.com/downloads/mysql/). Once you have MySQL installed, you will be able to create the "Bamazon" database and the "products" table with the SQL code found in Bamazon.sql. Run this code inside your MySQL client to populate the database, then you will be ready to use the customer interface. Make sure you input your MySQL password into the bamazoncustomer.js file on line 12.
 
 ### Customer View
 
