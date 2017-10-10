@@ -20,7 +20,7 @@ To run the customer interface please follow the steps below:
 	npm install mysql
 	node bamazonCustomer.js
 
-### Screenshots for running the application
+### Screenshots for Running the Application
 
 Upon running bamazoncustomer.js the customer is show the list of items for sale and prompted to input the ID of the product they wish to purchase.
 ![node1](https://user-images.githubusercontent.com/28895778/31412219-4583c732-ade2-11e7-972a-03c09756a64d.PNG)
